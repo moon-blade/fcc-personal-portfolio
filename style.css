@@ -103,7 +103,7 @@ body {
     margin: 10px;
     border: 5px solid black;
     background: var(--lighterBlue);
-    transition: linear 0.25s;
+    transition: ease-in-out 0.25s;
 }
 .project-tile:hover {
     transform: scale(1.05);
@@ -154,7 +154,7 @@ body {
     transition: 0.5s linear;
 }
 .contact-links a:hover {
-    transform: translateY(10px);
+    transform: translate(10px, 10px);
 }
 .contact-links {
     display: flex;
