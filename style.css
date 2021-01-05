@@ -151,7 +151,7 @@ body {
     color: white;
     margin: auto 20px;
     font-size: 2.2rem;
-    transition: 0.5s linear;
+    transition: 0.25s linear;
 }
 .contact-links a:hover {
     transform: translate(10px, 10px);
